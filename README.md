@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halier Cesar Alexander</h1>
 <h3 align="center">A full stack developer with a strong enthusiasm from Argentina.</h3>
 
-- 🔭 I’m currently working on [FitRevolution](https://fit-revolution-main.vercel.app/)
+- 🔭 I’m currently working on [Gota de Vida](https://github.com/No-Country/c16-121-t-reactnative)
 
 - 🌱 I’m currently learning **Ingles**
 
