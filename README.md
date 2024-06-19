@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **haliercesr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_WXeX5Keon52s_Kye3bGeAoFJYNstsxC/view](https://drive.google.com/file/d/1_WXeX5Keon52s_Kye3bGeAoFJYNstsxC/view)
+- 📄 Curriculum vitae (CV) [https://drive.google.com/file/d/1_WXeX5Keon52s_Kye3bGeAoFJYNstsxC/view](https://drive.google.com/file/d/1_WXeX5Keon52s_Kye3bGeAoFJYNstsxC/view)
 
 - ⚡ Fun fact **Exploring memes and reels aficionado 🤣📺**
 
