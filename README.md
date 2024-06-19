@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halier Cesar Alexander</h1>
 <h3 align="center">A full stack developer with a strong enthusiasm from Argentina.</h3>
 
-- 🔭 I’m currently working on [Gota de Vida](https://github.com/No-Country/c16-121-t-reactnative)
+- 🔭 I’m currently working on [CountryDevs](https://www.linkedin.com/company/country-devs)
 
 - 🌱 I’m currently learning **Ingles**
 
@@ -11,7 +11,7 @@
 
 - Essential ingredients for every project: ⚙️🚀🧩 [Enjoying mate and coffee 🧉 ☕](Enjoying mate and coffee 🧉 ☕)
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **javascript**, **JAVA**, 
 
 - 📫 How to reach me **haliercesr@gmail.com**
 
