@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halier Cesar Alexander</h1>
 <h3 align="center">A full stack developer with a strong enthusiasm from Argentina.</h3>
 
-- 🔭 I’m currently working on [Transportes Peretto](https://github.com/haliercesr/TransportePeretto_JAVA_Spring)
+- 🔭 I’m currently working on [app Gestion de Eventos](https://github.com/haliercesr/appGestionEventos-Backend.git)
 
 - 🌱 I’m currently learning **JAVA and Spring in ONE program of Oracle and Alura Latam**
 
