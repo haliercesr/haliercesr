@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [app Gestion de Eventos](https://github.com/haliercesr/appGestionEventos-Backend.git)
 
-- 🌱 I’m currently learning **JAVA and Spring in ONE program of Oracle and Alura Latam**
+- 🌱 I’m currently learning ** curso de MAXCLOUD para la Certificación de AWS Certified Cloud Practitioner**
 
-- 👯 I’m looking to collaborate on [CountryDevs](https://www.linkedin.com/company/country-devs/)
+- 👯 I’m looking to collaborate on [RAVA BURSATIL]([https://www.linkedin.com/company/country-devs/](https://www.linkedin.com/company/ravabursatil/posts/?feedView=all))
 
 - 🤝Essential ingredients for every project: **⚙️🚀🧩 Enjoying mate and coffee 🧉 ☕**
 
 - 👨‍💻 All of my projects are available at [https://cesarhalier.vercel.app/](https://cesarhalier.vercel.app/)
 
-- 💬 Ask me about **Javascript, JAVA,**
+- 💬 Ask me about **Javascript, JAVA, AWS**
 
 - 📫 How to reach me **haliercesr@gmail.com**
 
