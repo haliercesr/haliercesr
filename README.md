@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [RAVA BURSATIL](https://www.linkedin.com/company/ravabursatil/posts/?feedView=all)
 
-- 🌱 I’m currently learning ** [curso de MaxCloud](https://www.youtube.com/playlist?list=PLIduQUpg2BJFw_x6DGSU3UXcA43N_rkst) para la Certificación de AWS Certified Cloud Practitioner**  
+- 🌱 I’m currently learning [curso de MaxCloud](https://www.youtube.com/playlist?list=PLIduQUpg2BJFw_x6DGSU3UXcA43N_rkst) para la **Certificación de AWS Certified Cloud Practitioner**  
 
 - 👯 I’m looking to collaborate on [RAVA BURSATIL](https://www.linkedin.com/company/ravabursatil/posts/?feedView=all)
 
