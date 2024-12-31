@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://cesarhalier.vercel.app/](https://cesarhalier.vercel.app/)
 
-- 💬 Ask me about **Javascript, JAVA, AWS**
+- 💬 Ask me about **Javascript, Typescript, JAVA, AWS**
 
 - 📫 How to reach me **haliercesr@gmail.com**
 
