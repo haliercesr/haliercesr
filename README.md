@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Halier Cesar Alexander</h1>
 <h3 align="center">A full stack developer with a strong enthusiasm from Argentina.</h3>
 
-- 🔭 I’m currently working on [app Gestion de Eventos](https://github.com/haliercesr/appGestionEventos-Backend.git)
+- 🔭 I’m currently working on [RAVA BURSATIL](https://www.linkedin.com/company/ravabursatil/posts/?feedView=all)
 
-- 🌱 I’m currently learning ** curso de MAXCLOUD para la Certificación de AWS Certified Cloud Practitioner**
+- 🌱 I’m currently learning ** [curso de MaxCloud](https://www.youtube.com/playlist?list=PLIduQUpg2BJFw_x6DGSU3UXcA43N_rkst) para la Certificación de AWS Certified Cloud Practitioner**  
 
-- 👯 I’m looking to collaborate on [RAVA BURSATIL]([https://www.linkedin.com/company/country-devs/](https://www.linkedin.com/company/ravabursatil/posts/?feedView=all))
+- 👯 I’m looking to collaborate on [RAVA BURSATIL](https://www.linkedin.com/company/ravabursatil/posts/?feedView=all)
 
 - 🤝Essential ingredients for every project: **⚙️🚀🧩 Enjoying mate and coffee 🧉 ☕**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **haliercesr@gmail.com**
 
-- 📄 Curriculum vitae (CV) [https://drive.google.com/file/d/1_WXeX5Keon52s_Kye3bGeAoFJYNstsxC/view](https://drive.google.com/file/d/1_WXeX5Keon52s_Kye3bGeAoFJYNstsxC/view)
+- 📄 Curriculum vitae (CV) [CURRICULUM - SPANISH ](https://drive.google.com/file/d/1NaQvhyYYle0t7eqUL-jQaTbGX5ij5YzA/view) [CURRICULUM - ENGLISH ](https://drive.google.com/file/d/1LGA80B-U2ZZMv9GZBlcY9RSBFH-1PZjM/view) [CURRICULUM - PORTUGUES ](https://drive.google.com/file/d/1K8HyxqapPM7U5lGGSRr2w1xaYhbX2_dY/view)
 
 - ⚡ Fun fact **Exploring memes and reels aficionado 🤣📺**
 
